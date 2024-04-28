@@ -12,7 +12,7 @@ This project aims to develop a facial expression recognition system using convol
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/rcaswin/facial-expression-recognition-using-cnn.git
+git clone https://github.com/MuhamadBarhan/facial-expression-recognition-using-cnn.git
 2. Install the required dependencies
 
 ## Usage
